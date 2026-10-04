@@ -1,0 +1,6 @@
+{
+  "name": "Video Alt Yazı",
+  "description": "Dahili ses yakalama ile gerçek zamanlı çevrimdışı video alt yazı ve Türkçe çeviri",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

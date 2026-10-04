@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Video Alt Yazı</string>
+    <string name="nav_translate">Çeviri</string>
+    <string name="nav_transcript">Transkript</string>
+    <string name="nav_search">Arama</string>
+    <string name="nav_notes">Notlar</string>
+    <string name="nav_languages">Dil Paketleri</string>
+    <string name="nav_settings">Ayarlar</string>
+    <string name="nav_known_issues">Bilinen Sorunlar</string>
+</resources>
